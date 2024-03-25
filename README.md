@@ -4,3 +4,4 @@
 - Create requirements.txt
 - Get information from other websites.
 - Add description about each aspect of the audio clip.
+- Make gradio Webpage for given 2 songs search over all websites and display the scores
